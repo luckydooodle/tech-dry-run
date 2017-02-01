@@ -1,5 +1,5 @@
 var techDryRun = {
-  name: 'Simon de Moor',
+  name: 'Tre Ammatuna',
   startedWorkspace: true;
 }
 //changes
